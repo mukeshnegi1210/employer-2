@@ -1,0 +1,38 @@
+/* wizard form setting post job */
+
+.wizard>.content>.body {
+    position: relative;
+}
+
+.social-tile .social-icon.in {
+    background: #0077b5;
+    box-shadow: -4px 4px 0 #165c88;
+}
+.dashboard-header-right{
+    display: flex;
+    align-items: center;
+}
+.dashboard-header-right .dropdown{
+    border-right:  1px solid #1d82c3;
+    min-height: 45px;
+    line-height:45px;
+}
+.dashboard-header-right .dropdown-item:hover{
+    color: #ffffff;
+}
+
+.custom-avatar{
+    display: inline-block;
+    position: relative;
+}
+.custom-avatar .btn-edit{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 20px;
+    color: #1d82c3;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+
+}
